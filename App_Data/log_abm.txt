@@ -1,0 +1,3 @@
+﻿04/10/2026 15:44:33 | ALTA | Proveedores | id=4, razonSocial=LO, cuit=72837281928
+04/10/2026 15:44:41 | MODIFICACION | Proveedores | id=4, razonSocial=LO, cuit=72837281920
+04/10/2026 15:45:06 | ALTA | Moneda | id=4, detalle=Real, fechaCotizacion=10/10/2026, cotizacion=350.00
